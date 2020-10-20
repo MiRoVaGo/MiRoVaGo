@@ -32,6 +32,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#36](https://github.com/KVHEM/XEROS/issues/36) in [KVHEM/XEROS](https://github.com/KVHEM/XEROS)
+<!--END_SECTION:activity-->
 
 </details>
 
