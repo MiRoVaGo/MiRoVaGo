@@ -3,7 +3,7 @@
 ## I may be crazy don't mind me
 
 - :computer: I'm currently working on [pRecipe][pRecipe]!
-- ???? On the pursue to be an academic that has learned more and more about less and less until I know everything about nothing
+- :mortar_board: On the pursue to be an academic that has learned more and more about less and less until I know everything about nothing
 
 ### Connect with me:
 
