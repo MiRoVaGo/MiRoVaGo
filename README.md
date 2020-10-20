@@ -24,6 +24,12 @@
 <br />
 <br />
 
+
+
+---
+
+<img align="left" alt="MiRoVaGo" src="https://github-readme-stats.vercel.app/api?username=MiRoVaGo&show_icons=true&hide_border=true" />
+
 [pRecipe]: https://github.com/MiRoVaGo/pRecipe
 [twitter]: https://twitter.com/mirovago
 [outlook]: mailto:vargas_godoy@fzp.czu.cz
