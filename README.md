@@ -32,7 +32,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#36](https://github.com/KVHEM/XEROS/issues/36) in [KVHEM/XEROS](https://github.com/KVHEM/XEROS)
+1. ❗️ Opened issue [#1](https://github.com/MiRoVaGo/pRecipe/issues/1) in [MiRoVaGo/pRecipe](https://github.com/MiRoVaGo/pRecipe)
 <!--END_SECTION:activity-->
 
 </details>
