@@ -32,7 +32,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MiRoVaGo/pRecipe/issues/2) in [MiRoVaGo/pRecipe](https://github.com/MiRoVaGo/pRecipe)
+1. 🗣 Commented on [#1](https://github.com/MiRoVaGo/pRecipe/issues/1) in [MiRoVaGo/pRecipe](https://github.com/MiRoVaGo/pRecipe)
 <!--END_SECTION:activity-->
 
 </details>
