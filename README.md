@@ -32,7 +32,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/MiRoVaGo/pRecipe/pull/12) in [MiRoVaGo/pRecipe](https://github.com/MiRoVaGo/pRecipe)
+1. ❗️ Closed issue [#11](https://github.com/MiRoVaGo/pRecipe/issues/11) in [MiRoVaGo/pRecipe](https://github.com/MiRoVaGo/pRecipe)
 <!--END_SECTION:activity-->
 
 </details>
